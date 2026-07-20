@@ -47,9 +47,7 @@ This project implements and evaluates four core machine learning algorithms — 
 
 ## Contributors
 
-Tingyi Chen
-Raisa Chowdhury
-John Wu
+Tingyi Chen, Raisa Chowdhury, John Wu
 
 ## References
 
